@@ -22,5 +22,6 @@ df_subset.loc[df_subset['COUNTRY_NAME'] == 'USA']
 
 You can run this file locally using Jupyter Notebook or you can upload it to Google Colab.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)

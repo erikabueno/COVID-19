@@ -1,4 +1,4 @@
-# COVID-19 :microbe: Web Scraping
+# COVID-19 Web Scraping
 
 :brazil:
 

@@ -1,6 +1,6 @@
-# COVID-19 🦠 Web Scraping
+# COVID-19 :microbe: Web Scraping
 
-🇧🇷 
+:brazil:
 
 Jupyter Notebook com código para fazer raspagem de dados do site worldometers.info/coronavirus.
 
@@ -11,7 +11,7 @@ df_subset.loc[df_subset['COUNTRY_NAME'] == 'Brazil']
 
 Você pode rodar este arquivo localmente utilizando o Jupyter Notebook ou pode fazer o upload para o Google Colab.
 
-🇺🇸 
+:us:
 
 Jupyter Notebook with code to scrape data from worldometers.info/coronavirus.
 
